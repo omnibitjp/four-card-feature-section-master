@@ -1,0 +1,35 @@
+/* Font imports */
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+/* Premade attribution styles */
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+/* Page styles */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: hsl(229, 6%, 66%);
+    font-size: 15px;
+}
+
+h2 {
+    color: hsl(234, 12%, 34%);
+}
+/* Classes */
+.header {
+    text-align: center;
+}
+
+.title2 {
+    color: hsl(234, 12%, 34%);
+}
+
+.cards {
+    display: grid;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid black;
+}
